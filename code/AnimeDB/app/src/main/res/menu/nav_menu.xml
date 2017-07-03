@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_menu_favorites"
+            android:icon="@drawable/ic_favorite"
+            android:title="@string/favorite"
+            android:checked="true" />
+        <item android:id="@+id/nav_menu_subjects"
+            android:icon="@drawable/ic_live_tv"
+            android:title="@string/subject" />
+        <item android:id="@+id/nav_menu_people"
+            android:icon="@drawable/ic_people"
+            android:title="@string/person" />
+        <item android:id="@+id/nav_menu_characters"
+            android:icon="@drawable/ic_face"
+            android:title="@string/character" />
+        <item android:id="@+id/nav_menu_tags"
+            android:icon="@drawable/ic_label"
+            android:title="@string/tag" />
+
+
+    </group>
+
+</menu>

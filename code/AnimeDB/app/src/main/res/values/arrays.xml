@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="subject_type">
+        <item>全部</item>
+        <item>剧场版</item>
+        <item>TV</item>
+        <item>WEB</item>
+        <item>OVA</item>
+        <item>其他</item>
+    </string-array>
+
+    <string-array name="subject_sort">
+        <item>排名</item>
+        <item>日期</item>
+        <item>名称</item>
+    </string-array>
+    
+    <string-array name="favorite_mark">
+        <item>想看</item>
+        <item>看过</item>
+        <item>在看</item>
+        <item>搁置</item>
+        <item>抛弃</item>
+    </string-array>
+
+    <string-array name="favorite_type">
+        <item>全部</item>
+        <item>动画</item>
+        <item>制作人员</item>
+        <item>角色</item>
+    </string-array>
+
+    <string-array name="person_job">
+        <item>全部</item>
+        <item>音乐人</item>
+        <item>作家</item>
+        <item>绘师</item>
+        <item>漫画家</item>
+        <item>制作人员</item>
+        <item>演员</item>
+        <item>声优</item>
+        <item>其他</item>
+    </string-array>
+
+    <string-array name="person_sex">
+        <item>不限</item>
+        <item>男</item>
+        <item>女</item>
+        <item>其他</item>
+    </string-array>
+
+    <string-array name="character_sex">
+        <item>不限</item>
+        <item>男</item>
+        <item>女</item>
+        <item>其他</item>
+    </string-array>
+
+    <string-array name="character_job">
+        <item>全部</item>
+        <item>主角</item>
+        <item>配角</item>
+        <item>客串</item>
+    </string-array>
+</resources>

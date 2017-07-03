@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="@string/character"
+        android:icon="@drawable/ic_face_dark"
+        app:showAsAction="ifRoom"
+        android:id="@+id/subject_menu_characters"
+        />
+    <item android:title="@string/person"
+        android:icon="@drawable/ic_people_dark"
+        app:showAsAction="ifRoom"
+        android:id="@+id/subject_menu_makers"
+        />
+    <item android:title="@string/tag"
+        android:icon="@drawable/ic_label_dark"
+        app:showAsAction="never"
+        android:id="@+id/subject_menu_labels"
+        />
+
+</menu>
